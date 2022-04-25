@@ -1,13 +1,13 @@
-# Flutter CryptoCurrency App (MVP)
+# App desenvolvido através do FrameWork Flutter CryptoCurrency (MVP)
 
-Cryptocurrency App with MVP design pattern to track all the coins data in realtime for android & iOS . Written in dart using Flutter SDK.
-Please don't forget to give stars so that i keep updating the project. Thanks
+Aplicativo de criptomoeda com design MVP para rastrear todos os dados de moedas em tempo real para Android e iOS. Escrito em dardo usando Flutter SDK.
 
 <img src="iphone.png" height="600em" /><img src="android.png" height="600em" />
 
-[Watch the non-mvp video tutorial on Youtube](https://youtu.be/cPlaYS4eqe4)
-[Watch the mvp video tutorial on Youtube](https://youtu.be/I2AgSDAEZSE)
-## Getting Started
+[Assista ao tutorial em vídeo não mvp no Youtube](https://youtu.be/cPlaYS4eqe4)
+[Assista ao tutorial em vídeo mvp no Youtube](https://youtu.be/I2AgSDAEZSE)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Começando
+
+Para obter ajuda para começar a usar o Flutter, consulte o site oficial
+[documentação](https://flutter.io/).
